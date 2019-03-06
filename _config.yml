@@ -1,7 +1,7 @@
 author: Lauren Bodnar
 title: Lauren Bodnar | Blog
 subtitle: Wife, Mom, Developer, Maintainer Of Everything
-url: https://laurenbodnar.com
+url: /
 root: /
 
 # Header
@@ -28,19 +28,16 @@ index_widgets:
 # - category
  - tagcloud
 # - archive
-theme: 'hexo-theme-autumn'
+theme: 'diaspora'
 # widget behavior
 archive_type: 'monthly'
 show_count: false
 
-# Nav
-social:
-  Github: https://github.com/laurenbodnar
-  LinkedIn:
-
 theme_config:
-  Github: https://github.com/laurenbodnar
-  LinkedIn:
+  welcome_cover: /img/cover.jpg
+  social:
+    Github: https://github.com/laurenbodnar
+    About: /About
 
 # Miscellaneous
 google_analytics:

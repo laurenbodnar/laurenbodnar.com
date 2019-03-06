@@ -10,10 +10,7 @@
 
 ## Commands
 
- - **Dev server**: start a development server and open the window
-  ```shell
-  npm start
-  ```
+ 1. **Start development server** and open web browser: `npm start`
  - **New draft / post / page**
  ```shell
  hexo new [type] [post title]

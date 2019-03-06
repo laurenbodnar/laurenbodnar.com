@@ -1,0 +1,6 @@
+welcome_cover: # /img/welcome-cover.jpg
+cover: /img/cover.jpg
+scrollbar: true
+google_analytics:
+favicon: /img/favicon.png
+rss: atom.xml
