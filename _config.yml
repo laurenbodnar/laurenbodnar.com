@@ -35,6 +35,10 @@ show_count: false
 
 theme_config:
   welcome_cover: /img/cover.jpg
+  menu:
+    Test: /2019/03/06/hello-world/
+    GitHub: https://github.com/laurenbodnar
+    Archives: /archives
   social:
     Github: https://github.com/laurenbodnar
     About: /About

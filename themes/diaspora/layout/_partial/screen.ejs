@@ -14,7 +14,11 @@
     <div id="header">
         <div>
             <a class="image-logo" href="/"></a>
-            <div class="icon-menu switchmenu"></div>
+            <div style="float:right; margin-right:50px; font-size:20px">
+            <% for (var i in theme.menu){ %>
+                <a class="top-menu" href="<%=theme.menu[i]%>" style="margin-right:10px;"><%=i%></a>
+            <%}%>
+            </div>
         </div>
     </div>
     <% if ( first ) { %>

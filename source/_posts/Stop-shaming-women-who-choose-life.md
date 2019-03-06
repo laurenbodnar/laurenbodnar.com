@@ -1,9 +1,10 @@
 ---
 title: Stop shaming women who choose life
-date: 2019-03-05 21:26:58
+date: 2019-01-22 21:26:58
 cover: /img/shamingwomen.jpg
 TOC: false
-tags:
+tags: [Women, Pregnancy, Prolife, Life Lessons ]
+author: Lauren Bodnar
 ---
 ![header img](/img/shamingwomen.jpg)
 In light of Sanctity of Human Life day, let’s talk about mothers.

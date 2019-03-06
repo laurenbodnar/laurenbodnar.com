@@ -207,7 +207,7 @@ $(function() {
         cover.w = cover.t.attr('width');
         cover.h = cover.t.attr('height');
         ;(cover.o = function() {
-            $('#mark').height(window.innerHeight)
+            $('#mark').height(window.innerHeight * 0.75)
         })();
         if (cover.t.prop('complete')) {
             // why setTimeout ?
@@ -352,6 +352,12 @@ $(function() {
                 return false;
                 break;
             // home
+            case (tag.indexOf('top-menu') != -1 && $(e.target).attr('href').indexOf('https:') == -1 && $(e.target).attr('href').indexOf('http:') == -1):
+                    Diaspora.HS($(e.target), 'push')
+                    //location.href = $('.top-menu').data('url')
+
+                return false;
+                break;
             case (tag.indexOf('icon-home') != -1):
                 $('.toc').fadeOut(100);
                 if ($('#preview').hasClass('show')) {
@@ -458,7 +464,7 @@ $(function() {
                             // See Options -> getThumbBoundsFn section of documentation for more info
                             var thumbnail = imgs[index],
                                 pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
-                                rect = thumbnail.getBoundingClientRect(); 
+                                rect = thumbnail.getBoundingClientRect();
 
                             return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
                         }
@@ -469,7 +475,7 @@ $(function() {
                 return false;
                 break;
               // comment
-            case - 1 != tag.indexOf("comment"): 
+            case - 1 != tag.indexOf("comment"):
                 Diaspora.loading(),
                 comment = $('#gitalk-container');
                 gitalk = new Gitalk({
@@ -498,4 +504,3 @@ $(function() {
     }
     console.log("%c Github %c","background:#24272A; color:#ffffff","","https://github.com/Fechin/hexo-theme-diaspora")
 })
-
