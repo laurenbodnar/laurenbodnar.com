@@ -352,6 +352,7 @@ $(function() {
                 return false;
                 break;
             // home
+            
             case (tag.indexOf('top-menu') != -1 && $(e.target).attr('href').indexOf('https:') == -1 && $(e.target).attr('href').indexOf('http:') == -1):
                     Diaspora.HS($(e.target), 'push')
                     //location.href = $('.top-menu').data('url')
