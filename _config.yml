@@ -34,7 +34,7 @@ archive_type: 'monthly'
 show_count: false
 
 theme_config:
-  welcome_cover: /img/cover.jpg
+  welcome_cover: /img/welcome_cover.jpg
   menu:
     Test: /2019/03/06/hello-world/
     GitHub: https://github.com/laurenbodnar
