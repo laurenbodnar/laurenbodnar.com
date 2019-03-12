@@ -1,6 +1,6 @@
 author: Lauren Bodnar
 title: Lauren Bodnar | Blog
-subtitle: Wife, Mom, Developer, Maintainer Of Everything
+subtitle: Think Deeply | Live Fully
 url: /
 root: /
 
@@ -28,10 +28,22 @@ index_widgets:
 # - category
  - tagcloud
 # - archive
-theme: 'diaspora'
+theme: 'Material-T'
 # widget behavior
 archive_type: 'monthly'
 show_count: false
+archive_generator:
+  per_page: 0
+  yearly: true
+  monthly: true
+  daily: false
+  order_by: -date
+
+highlight:
+  enable: false
+  line_number: false
+  auto_detect: false
+  tab_replace:
 
 theme_config:
   welcome_cover: /img/welcome_cover.jpg
@@ -41,7 +53,6 @@ theme_config:
     Archives: /archives
   social:
     Github: https://github.com/laurenbodnar
-    About: /About
 
 # Miscellaneous
 google_analytics:
