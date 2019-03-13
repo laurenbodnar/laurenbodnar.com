@@ -6,7 +6,7 @@
     "version": "3.8.0"
   },
   "scripts": {
-    "start": "atom . && hexo server -d -o",
+    "start": "hexo server -d",
     "deploy": "hexo clean && hexo deploy"
   },
   "dependencies": {
