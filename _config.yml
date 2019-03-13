@@ -28,7 +28,7 @@ index_widgets:
 # - category
  - tagcloud
 # - archive
-theme: 'Material-T'
+theme: 'laurens-theme'
 # widget behavior
 archive_type: 'monthly'
 show_count: false
