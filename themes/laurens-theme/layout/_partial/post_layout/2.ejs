@@ -1,0 +1,24 @@
+<div class="row" style="margin: 0 0 0; z-index: 999;">
+  <div class="col-md-10 offset-md-1">
+    <div class="main main-raised">
+      <div class="container">
+        <div class="section">
+          <div class="post_content">
+              <%- page.content %>
+          </div>
+          <br><br>
+          <div>
+              <p>
+                  <% page.tags.each(function(tag) { %>
+                    <a class="badge badge-default" href="/archives/#<%- tag.name %>">#&nbsp;<%- tag.name %></a>
+                    &nbsp;
+                  <% }) %>
+              </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- TOC -->
+  <%- partial('../toc') %>
+</div>

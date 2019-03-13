@@ -1,0 +1,14 @@
+<% if(theme.post.layout == '1') { %>
+    <%- partial('_partial/post_layout/1', page) %>
+<% } else { %>
+    <%- partial('_partial/post_layout/2', page) %>
+<% } %>
+
+<br>
+<!-- Comments -->
+<div class="comments" id="comments">
+<% if(page.comments && theme.post.comments.enable) { %>
+    <% var type = '_partial/comments/' + theme.post.comments.type %>
+    <%- partial(type) %>
+<% } %>
+</div>
