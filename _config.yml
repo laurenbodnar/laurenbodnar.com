@@ -65,6 +65,13 @@ fb_app_id:
 
 instagramWall:
   enable: true
+  requestedCount: 18
+  itemsPerRow: 5
+  showCaption: true
+  displayStyle: 'flex'
+  gutterSize: '10px'
+  overlayColor: 'black'
+  textColor: 'white'
 
 deploy:
   type: git
