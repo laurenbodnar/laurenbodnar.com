@@ -3,7 +3,7 @@ title: The kind of goals you set matter
 cover: /img/confetti.jpg
 author: Lauren Bodnar
 tags: [Goals, Life Lessons, Motherhood]
-
+date: 2019-01-01 17:26:58
 ---
 ![header img](/img/confetti.jpg)
 
