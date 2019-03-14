@@ -48,7 +48,7 @@ hexo new [type] [post title]
     ```
   6. __Pull Request__: [Submit a pull request](https://github.com/laurenbodnar/laurenbodnar.com/compare)
 
-  7. __Squash and merge__ your changes and then delete the feature branch.
+  7. __Squash and merge__ your changes and then delete the feature branch. This merges into master. Netilfy deploys it. No need to run deploy.
 
   8. __Pull__ changes into your local master branch
 
