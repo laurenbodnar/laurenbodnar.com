@@ -10929,10 +10929,7 @@ legend {
   font-family: "Roboto Slab", "Times New Roman", serif;
 }
 
-* {
-  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-  -webkit-tap-highlight-color: transparent;
-}
+
 
 *:focus {
   outline: 0;
@@ -11060,7 +11057,9 @@ label {
 }
 
 .offline-doc .page-header .container,
-.offline-free-doc .page-header .container {
+.offline-doc .page-header .container-fluid,
+.offline-free-doc .page-header .container,
+.offline-free-doc .page-header .container-fluid {
   z-index: 3;
 }
 
@@ -16124,7 +16123,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
   background: rgba(0, 0, 0, 0.5);
 }
 
-.header-filter .container {
+.header-filter .container,.header-filter .container-fluid {
   z-index: 2;
   position: relative;
 }
@@ -17447,7 +17446,7 @@ footer .pull-center {
   display: inherit;
 }
 
-.signup-page .page-header .container {
+.signup-page .page-header .container, .signup-page .page-header .container-fluid {
   padding-top: 20vh;
 }
 
@@ -17470,7 +17469,7 @@ footer .pull-center {
   margin-top: 20px;
 }
 
-.signup-page .footer .container {
+.signup-page .footer .container,.signup-page .footer .container-fluid {
   padding: 0;
 }
 
@@ -17973,7 +17972,7 @@ footer .pull-center {
     max-height: 1000px;
     height: 100%;
   }
-  .login-page .page-header>.container {
+  .login-page .page-header>.container, .login-page .page-header>.container-fluid {
     padding-top: 20vh;
     padding-bottom: 200px;
   }

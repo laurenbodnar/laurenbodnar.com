@@ -25,9 +25,9 @@ widgets:
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
-# - category
+ - category
  - tagcloud
-# - archive
+ - archive
 theme: 'laurens-theme'
 # widget behavior
 archive_type: 'monthly'
@@ -48,7 +48,6 @@ highlight:
 theme_config:
   welcome_cover: /img/welcome_cover.jpg
   menu:
-    Test: /2019/03/06/hello-world/
     GitHub: https://github.com/laurenbodnar
     Archives: /archives
   social:
@@ -65,16 +64,10 @@ fb_app_id:
 
 instagramWall:
   enable: true
-  requestedCount: 18
-  itemsPerRow: 5
+  requestedCount: 12
+  itemsPerRow: 4
   showCaption: true
   displayStyle: 'flex'
   gutterSize: '10px'
   overlayColor: 'black'
   textColor: 'white'
-
-deploy:
-  type: git
-  repo: git@github.com:laurenbodnar/laurenbodnar.com.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: gh-pages #published
-  #message: [message]  #leave this blank
