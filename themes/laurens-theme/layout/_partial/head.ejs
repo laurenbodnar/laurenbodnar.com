@@ -24,7 +24,10 @@
         <% if(theme.post.highlight.enable){ %>
             <%- css('css/Prettify/'+theme.post.highlight.theme+'.min.css') %>
         <% } %>
-        <%- fbcommentshead() %>
+        
+
+         <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=253164685625872&autoLogAppEvents=1"></script>
     <% } %>
 
 </head>

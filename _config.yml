@@ -73,11 +73,3 @@ instagramWall:
   textColor: 'white'
 
 all_minifier: true
-
-fbcomments:
-  appId: 57a061a3e5a3e23434219f3f727c3f77 # <---- TODO
-  colorscheme: dark # (optional) light/dark
-  enabled: true # (optional) true/false
-  lang: en_US # (optional)
-  order_by: time  # (optional) time/reverse_time/social
-  numPosts: 10 # (optional) defaults to 5

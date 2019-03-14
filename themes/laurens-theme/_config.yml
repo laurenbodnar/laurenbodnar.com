@@ -66,7 +66,7 @@ post:
     enable: true
     theme: tomorrow-night-eighties
   comments:
-    enable: true
+    enable: false
     type: fbook
 
 disqus:
