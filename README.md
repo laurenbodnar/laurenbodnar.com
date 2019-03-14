@@ -24,6 +24,10 @@ hexo new [type] [post title]
  npm run deploy
  ```
 
+## Git workflow guide
+
+  1. Create an issue to describe your feature: [/issues/new](https://github.com/laurenbodnar/laurenbodnar.com/issues/new)
+
 ## Cheatsheets
 
 ![markdown cheatsheet](https://media.cheatography.com/storage/thumb/mrgrauel_gitlab-flavored-markdown.750.jpg)
