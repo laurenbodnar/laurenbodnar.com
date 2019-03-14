@@ -31,14 +31,14 @@ hexo new [type] [post title]
   1. __Issue__: Create an issue to describe your feature: [/issues/new](https://github.com/laurenbodnar/laurenbodnar.com/issues/new)
 
   2. __Branch__: Checkout a new branch in the terminal for your issue / feature:
-    ```
+    ```shell
     git checkout master && git pull
     git checkout -b 'features/feature-1'
     ```
   3. __Edit__ your files and do da coding. (If something comes up and you need to make other edits before this feature is finished, refer to the [Troubleshooting](#Troubleshooting) below)
 
   4. __Commit__ your changes in Atom, or via the terminal:
-    ```
+    ```shell
     git add . && git commit -m "this is a short description of what changed for issue #1"
     ```
   5. __Push__ your feature branch up to github
