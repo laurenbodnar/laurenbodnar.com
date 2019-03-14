@@ -1,0 +1,125 @@
+#---------------------------
+# Material-T
+# Author: invom
+# Github: https://github.com/invom/Material-T
+#---------------------------
+
+#---------------------------
+# 全局
+# Site
+#---------------------------
+favicon: /favicon.png
+apple_touch_icon: /apple-touch-icon.png
+
+
+#---------------------------
+# 首页
+# Index Page
+#---------------------------
+index:
+  banner_img: /img/header1.jpg
+  # available: 0 - 100
+  banner_img_height: 100
+  subtitle:
+    enable: true
+  auto_excerpt:
+    enable: true
+    length: 175
+  # available: _blank | _self
+  post_url_target: _self
+  post_info:
+    enable: true
+
+
+#---------------------------
+# 导航栏
+# Head Navbar
+#---------------------------
+navbar:
+  menu:
+    enable: true
+    list:
+      archives: /archives/
+      about: /about
+  icons:
+    enable: true
+    tips: 'See me here'
+    list:
+      github: https://github.com/
+      twitter: https://twitter.com/
+
+
+#---------------------------
+# 文章页
+# Post Page
+#---------------------------
+post:
+  banner_img: /img/header1.jpg
+  # available: 0 - 100
+  banner_img_height: 70
+  # available: 1 | 2
+  layout: 2
+  toc:
+    enable: false
+  # Code Highlight Theme available: github | tomorrow | tomorrow-night | tomorrow-night-eighties
+  highlight:
+    enable: true
+    theme: tomorrow-night-eighties
+  comments:
+    enable: true
+    type: disqus
+
+disqus:
+  shortname: laurenbodnar
+
+# Valine
+# You can get your appid and appkey from https://leancloud.cn
+# More info available at https://valine.js.org
+valine:
+  enable: false # When enable is set to be true, leancloud_visitors is recommended to be closed for the re-initialization problem within different leancloud adk version.
+  appid:  # your leancloud application appid
+  appkey:  # your leancloud application appkey
+  notify: false # mail notifier, See: https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: place # comment box placeholder
+  avatar: retro # gravatar style https://valine.js.org/avatar.html
+  pageSize: 10 # pagination size
+  visitor: false # leancloud-counter-security is not supported for now. When visitor is set to be true, appid and appkey are recommended to be the same as leancloud_visitors' for counter compatibility. Article reading statistic https://valine.js.org/visitor.html
+
+
+#---------------------------
+# 归档页
+# Archive Page
+#---------------------------
+archive:
+  banner_img: /img/header1.jpg
+  # available: 0 - 100
+  banner_img_height: 70
+
+#---------------------------
+# 关于页
+# About Page
+#---------------------------
+about:
+  banner_img: /img/header1.jpg
+  # available: 0 - 100
+  banner_img_height: 60
+  avatar: /img/avatar.jpg
+  name: Lauren Bodnar
+  introduce: I'm from Texas. I married a tech geek who is my polar opposite in
+    every way. We have two precious little ones and a German Shepherd. I am a
+    Reformed Baptist Christian and therefore all of my writing will be from this
+    worldview. I'm not an expert theologian, wife or parent and I don't pretend
+    to be. I have lots to learn and I enjoy sharing that journey, so I started
+    writing as a way of thinking out loud.
+  extension:
+  icons:
+    github: https://github.com
+    twitter: https://twitter.com
+
+
+#---------------------------
+# 底部信息
+# Footer
+#---------------------------
+footer: <b></b>
