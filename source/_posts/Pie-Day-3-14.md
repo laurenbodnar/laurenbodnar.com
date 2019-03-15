@@ -1,13 +1,14 @@
 ---
 title: Pie Day 3.14
-cover: /img/blueberry-pie.jpg
+cover: /img/blueberry-pie-2.jpg
 author: Lauren Bodnar
 date: 2019-03-14 10:32:00
 tags: [Life Lessons, Culture, Life]
+excerpt: Pi Day is one of those fake holidays, generally only celebrated by math teachers and bakeries. Today marks my 12th annual Pi Day celebration.
 ---
 ![header img](/img/blueberry-pie.jpg)
 
-### Happy Pi(e) Day! π
+### Happy Pi(e) Day!
 
 Pi Day is one of those *fake holidays*, generally only celebrated by math teachers and bakeries.<br/>
 Today marks my 12th annual Pi Day celebration. In my house Pi Day is a real holiday. Every year I make at least 3 pies and usually host a party to gather family and friends around the table. People who don’t know about Pi Day, or have heard but have never celebrated tend to get pretty excited when I start talking about it. <br/>

@@ -4,7 +4,7 @@ title: 26 Books in 2019
 cover: /img/26in2019.jpeg
 tags:
   - Books
-
+date: 2019-02-28 11:41:09
 ---
 ![header img](/img/26in2019.jpeg)
 
