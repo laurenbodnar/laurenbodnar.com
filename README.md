@@ -1,4 +1,12 @@
-# Homepage for [laurenbodnar.com](laurenbodnar.com)
+# Lauren Bodnar's blog: [laurenbodnar.com](https://laurenbodnar.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/261034c0-28cf-49d2-a433-ae181f6fc240/deploy-status)](https://app.netlify.com/sites/laurenbodnar/deploys)
+
+----
+
+![](.github/screenshot.jpeg)
+
+
+---
 
 ## Tech Stack
  - [hexo.io](https://hexo.io/docs)
@@ -10,42 +18,49 @@
 
 ## Commands
 
- 1. **Start development server** and open web browser: `npm start`
- - **New draft / post / page**
- ```shell
- hexo new [type] [post title]
- ```
-- **Add local image (as opposed to the internet)**
-```shell
-hexo new [type] [post title]
-```
- - **Deployment**
- ```shell
- npm run deploy
- ```
+1. **Start development server** and open web browser: `npm start`
+  - **New draft / post / page**
 
-## Git Workflows
+  ```shell
+  hexo new [type] [post title]
+  ```
+
+  - **Add local image (as opposed to the internet)**
+
+  ```shell
+  hexo new [type] [post title]
+  ```
+
+  - **Deployment**: deployments happen automatically when a pull request is merged into master.
+
+## Git Workflow
 
 ### Github pull-request guide
 
   1. __Issue__: Create an issue to describe your feature: [/issues/new](https://github.com/laurenbodnar/laurenbodnar.com/issues/new)
 
   2. __Branch__: Checkout a new branch in the terminal for your issue / feature:
-    ```shell
-    git checkout master && git pull
-    git checkout -b 'features/feature-1'
-    ```
+
+   ```shell
+   git checkout master && git pull
+   git checkout -b 'features/feature-1'
+   ```
+
   3. __Edit__ your files and do da coding. (If something comes up and you need to make other edits before this feature is finished, refer to the [Troubleshooting](#Troubleshooting) below)
 
   4. __Commit__ your changes in Atom, or via the terminal:
-    ```shell
-    git add . && git commit -m "this is a short description of what changed for issue #1"
-    ```
+
+   ```shell
+   git add . && git commit -m "this is a short description of what changed for issue #1"
+   ```
+
   5. __Push__ your feature branch up to github
-    ```shell
-    git push -u origin features/feature-1 # 1st time
-    git push # 2nd time on
-    ```
+
+   ```shell
+   git push -u origin features/feature-1 # 1st time
+   git push # 2nd time on
+   ```
+
   6. __Pull Request__: [Submit a pull request](https://github.com/laurenbodnar/laurenbodnar.com/compare)
 
   7. __Squash and merge__ your changes and then delete the feature branch. This merges into master. Netilfy deploys it. No need to run deploy.
@@ -57,24 +72,26 @@ hexo new [type] [post title]
   - Changes unrelated to current feature branch: sometimes you need to make edits to files that you don't want in your feature branch. Fix that by
 
     1. Committing your changes (see step 4 above), or stashing them:
-      ```shell
-      git add . && git stash
-      ```
+
+        ```shell
+        git add . && git stash
+        ```
 
     2. Checkout master:
-      ```
-      git checkout master
-      ```
+
+        ```shell
+        git checkout master
+        ```
 
     3. Follow steps 2-8 for your 2nd concurrent branch (let's call it `bugs/bug-1`)
 
     4. Once finished, you can checkout your unfinished feature and rebase those changes:
 
-      ```shell
-      git checkout 'features/feature-1'
-      git stash pop # ONLY do this if you stashed your changes instead of committing them in step 1
-      git rebase origin/master
-      ```
+        ```shell
+        git checkout 'features/feature-1'
+        git stash pop # ONLY do this if you stashed your changes instead of committing them in step 1
+        git rebase origin/master
+        ```
 
       *NOTE: git stash pop will "pop" out the last stashed code and apply it. You can use git stash multiple times, and git stash pop them in the order they were added, or use git stash list and git stash apply --index stash@{2}*
 
