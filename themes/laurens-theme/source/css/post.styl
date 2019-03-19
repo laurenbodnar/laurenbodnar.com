@@ -13,6 +13,7 @@
 
 .post_content img {
   max-width: 100%;
+
 }
 
 .post_content h1::before,
@@ -81,6 +82,20 @@ h6 {
 
 .tocbot-is-collapsed {
   max-height: 0;
+}
+
+@media (max-width: 975px) {
+  .post_content h1.post_title {
+    font-size: 1.9rem;
+  }
+}
+@media (min-width: 975px) {
+  .post_content h1.post_title {
+    //font-size: calc(20px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+    // line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px)/(1600 - 300)));
+    font-size: 2vw;
+    line-height: 45px
+  }
 }
 
 .comments {

@@ -7,7 +7,7 @@ tags: [Books, Reading, Book Review, History, Fiction]
 ---
 ![header img](/img/lexandconcord.jpg)
 
-### History needs flesh.
+## History needs flesh.
 
 I’m convinced people don’t actually hate history. They hate the cold emotionless retelling of facts. I love history though. In school it was my favorite subject. The best teachers taught the facts through psychology and sociology. <br/>
 **_Why?_** That one question gives way to a thousand answers. History is never so black and white and there’s almost never a single cause to any effect. Humans are raw, secretive, emotional, greedy and we rarely see things from the same perspective as everyone around us. <br/>

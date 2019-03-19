@@ -7,7 +7,7 @@ tags: [Parenting, Motherhood, Christianity, Life Lessons]
 ---
 ![header img](/img/sadmom.jpg)
 <br/>
-### Pouring salt on open wounds
+## Pouring salt on open wounds
 
 Young parents are constantly asked questions about their quality of life after children. We receive questions from strangers in the grocery line. Friends who are genuinely interested ask how things are going. Other parents who share this life stage check in on each other's sanity. Those who are thinking about having kids one day ask about the difficulties and the joys. <br/>
 Moms in yoga pants mumble something about their great need for more coffee. Very often we offer only a short affirmative answer: *Good.* Sometimes though, people want to be funny and reply, "it's going well, I've managed to keep them alive this long." You can learn a lot about a person by how they answer these questions. *And when I hear that phrase, I know this is a parent who has never lost a child.* <br/>
