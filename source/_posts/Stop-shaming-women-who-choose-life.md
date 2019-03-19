@@ -8,7 +8,7 @@ author: Lauren Bodnar
 ---
 ![header img](/img/shamingwomen.jpg)
 <br/>
-### In light of Sanctity of Human Life day, let’s talk about mothers.
+## In light of Sanctity of Human Life day, let’s talk about mothers.
 
 
 My parents were long finished having kids when my mom got pregnant with her third. She was 44 at the time. Her doctor regularly mentioned that she was his “most mature patient.” Gee, thanks Doc. My sister was born when I was 12, though I could’ve passed for 14. One day when my sister was about 6 months old, mom, baby and I all went to the mall. Mom went inside her favorite store and had me walk the stroller around nearby. I came back *traumatized.* <br/>

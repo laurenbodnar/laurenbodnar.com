@@ -1,9 +1,17 @@
 <div class="row post-layout-2">
-  <div class="col-md-10 offset-md-1">
+  <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
     <div class="main main-raised">
-      <div class="container">
+      <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+
         <div class="section">
           <div class="post_content">
+
+            <div class="page-title">
+              <h1 class="title post_title"><%- page.title %></h1>
+              <p class=" title" style="font-weight:300"><b><%- full_date(page.date, 'dddd, MMMM Do YYYY, h:mm a') %></b></p>
+            </div>
               <%- page.content %>
           </div>
           <br><br>
@@ -22,6 +30,8 @@
           </div>
         </div>
       </div>
+      </div>
+    </div>
     </div>
   </div>
   <!-- TOC -->

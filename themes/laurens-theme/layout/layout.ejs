@@ -32,14 +32,7 @@
   <!-- <div class="page-header-wrapper page-header" style="height: <%- banner_img_height %>vh;"> -->
   <div class="page-header-bg page-header header-filter" data-parallax="false" style="background-image: url('<%- url_for(banner_img) %>'); height: <%- banner_img_height %>vh;">
   <!-- </div> -->
-    <% if(is_post()) { %>
-    <div class="container-fluid">
-      <div class="page-title">
-      <h1 class="title text-center post_title"><%- page.title %></h1>
-      <p class="text-center title"><b><%- full_date(page.date, 'dddd, MMMM Do YYYY, h:mm a') %></b></p>
-      </div>
-    </div>
-    <% } else { %>
+    <% if(!is_post()) { %>
     <div class="container-fluid">
       <div class="page-title">
       <h1 class="title text-center"><%- subtitle %></h1>
