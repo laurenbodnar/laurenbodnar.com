@@ -4,6 +4,7 @@ cover: /img/lexandconcord.jpg
 author: Lauren Bodnar
 date: 2019-01-02 12:04:03
 tags: [Books, Reading, Book Review, History, Fiction]
+description: History needs flesh.
 ---
 ![header img](/img/lexandconcord.jpg)
 
