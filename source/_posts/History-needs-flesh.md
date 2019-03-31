@@ -4,7 +4,7 @@ cover: /img/lexandconcord.jpg
 author: Lauren Bodnar
 date: 2019-01-02 12:04:03
 tags: [Books, Reading, Book Review, History, Fiction]
-description: History needs flesh.
+description: I’m convinced people don’t actually hate history. They hate the cold emotionless retelling of facts. I love history though. In school it was my favorite subject. The best teachers taught the facts through psychology and sociology.
 ---
 ![header img](/img/lexandconcord.jpg)
 
