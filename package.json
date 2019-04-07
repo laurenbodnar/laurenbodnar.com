@@ -24,6 +24,9 @@
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.3"
+    "hexo-server": "^0.3.3",
+    "shell-quote": ">=1.6.1",
+    "cryptiles": ">=4.1.2",
+    "hoek": ">=4.2.1"
   }
 }
