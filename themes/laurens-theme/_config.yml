@@ -68,6 +68,10 @@ post:
   comments:
     enable: true
     type: commento
+    
+comments:
+  enable: true
+  type: commento
 
 disqus:
   shortname: laurenbodnar
