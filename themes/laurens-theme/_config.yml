@@ -68,9 +68,9 @@ post:
   comments:
     enable: true
     type: commento
-    
+
 comments:
-  enable: true
+  enable: false
   type: commento
 
 disqus:
