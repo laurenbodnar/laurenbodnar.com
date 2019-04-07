@@ -66,8 +66,8 @@ post:
     enable: true
     theme: tomorrow-night-eighties
   comments:
-    enable: false
-    type: fbook
+    enable: true
+    type: commento
 
 disqus:
   shortname: laurenbodnar
