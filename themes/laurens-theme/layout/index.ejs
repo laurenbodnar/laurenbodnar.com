@@ -15,7 +15,9 @@
             <% } %>
             <div class="<%- col_num %>">
               <a href="<%- url_for(post.path) %>" class="h3 title" target="<%- theme.index.post_url_target %>"><%= post.title %></a>
-              <% if(post.excerpt.length > 0) { %>
+              <% if(post.description && post.description.length) { %>
+              <p><%- post.description %>...</p>
+              <% } else if(post.excerpt && post.excerpt.length) { %>
               <p><%- strip_html(post.excerpt) %>...</p>
               <% } else if(theme.index.auto_excerpt.enable){ %>
               <p><%- strip_html(post.content).substring(0,theme.index.auto_excerpt.length) %>...</p>
