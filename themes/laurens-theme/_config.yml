@@ -67,11 +67,11 @@ post:
     theme: tomorrow-night-eighties
   comments:
     enable: true
-    type: graphcomments
+    type: commento
 
 comments:
-  enable: true
-  type: graphcomments
+  enable: false
+  type: commento
 
 disqus:
   shortname: laurenbodnar
