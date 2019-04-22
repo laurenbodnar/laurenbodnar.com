@@ -5,6 +5,7 @@ cover: /img/26in2019.jpeg
 tags:
   - Books
 date: 2019-02-28 11:41:09
+description: A living post of my 2019 Reading Challenge. The books I've read so far and my thoughts about them.
 ---
 ![header img](/img/26in2019.jpeg)
 

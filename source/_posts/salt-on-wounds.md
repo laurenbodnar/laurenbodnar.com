@@ -4,6 +4,7 @@ cover: /img/sadmom.jpg
 author: Lauren Bodnar
 date: 2019-03-06
 tags: [Parenting, Motherhood, Christianity, Life Lessons]
+description: Our words can easily be hurtful to those around us without even meaning to. Here's a joke that's not funny.
 ---
 ![header img](/img/sadmom.jpg)
 <br/>

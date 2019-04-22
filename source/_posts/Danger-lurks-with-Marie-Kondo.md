@@ -4,6 +4,7 @@ cover: /img/mariekondo.jpg
 author: Lauren Bodnar
 date: 2019-01-20 11:31:36
 tags: [Christianity, Life Lessons, Culture]
+description: The world being in God and God being in the world - AKA Panentheism. She promises joy in places it won't be found.
 ---
 ![header img](/img/mariekondo.jpg)
 ## Tidying Up

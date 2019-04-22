@@ -4,6 +4,7 @@ cover: /img/lego.jpg
 author: Lauren Bodnar
 date: 2019-01-09 11:42:02
 tags: [Motherhood, Life Lessons, Humor, Life, Parenting]
+description: Sometimes you have to laugh to keep yourself from crying
 ---
 ![header img](/img/lego.jpg)
 <br/>

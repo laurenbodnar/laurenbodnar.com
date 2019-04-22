@@ -4,6 +4,7 @@ cover: /img/warmsoul.jpg
 date: 2019-03-06 00:41:09
 tags: [Books, Book Review, Reading]
 author: Lauren Bodnar
+description: Books serve all kinds of purposes. Some educate, some excite the imagination, some weigh heavily on the mind. The best kind of book warms the soul.
 ---
 ![header img](/img/ove.jpg)
 <br/>

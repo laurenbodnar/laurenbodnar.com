@@ -5,6 +5,7 @@ cover: /img/shamingwomen.jpg
 TOC: false
 tags: [Women, Pregnancy, Prolife, Life Lessons, Motherhood]
 author: Lauren Bodnar
+description: Are we telling young girls how brave they are when they choose life? Are we supporting them and encouraging them to provide for their babies? My experiences lead me to believe we are not.
 ---
 ![header img](/img/shamingwomen.jpg)
 <br/>

@@ -4,6 +4,7 @@ cover: /img/confetti.jpg
 author: Lauren Bodnar
 tags: [Goals, Life Lessons, Motherhood]
 date: 2019-01-01 17:26:58
+description: If you can’t measure success, you can’t build momentum and reaching the goal is a futile effort. I set a variety of goals: intellectual, spiritual, and physical.
 ---
 ![header img](/img/confetti.jpg)
 
