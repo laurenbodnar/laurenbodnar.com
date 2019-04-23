@@ -10,25 +10,25 @@
 <%    share_description = strip_html(page.content).substring(0,50) + '...' %>
 <% } else if(is_home()) { %>
 <%    var banner_img = theme.index.banner_img %>
-<%    share_img = url_for("/img/share-img.png") %>
+<%    share_img = url_for("/img/cover-with-logo.png") %>
 <%    var banner_img_height = theme.index.banner_img_height %>
 <%    if(theme.index.subtitle.enable) { var subtitle = config.subtitle } %>
 <% } else if (page.type == 'about'){ %>
 <%    var banner_img = theme.about.banner_img || theme.index.banner_img %>
-<%    share_img = url_for("/img/share-img.png") %>
+<%    share_img = url_for("/img/cover-with-logo.png") %>
 <%    var banner_img_height = theme.about.banner_img_height %>
 <%    var subtitle = '' %>
 <%    var body_class = "profile-page" %>
 <% } else if(is_archive) { %>
 <%    var banner_img = theme.archive.banner_img || theme.index.banner_img %>
-<%    share_img = url_for("/img/share-img.png") %>
+<%    share_img = url_for("/img/cover-with-logo.png") %>
 <%    var banner_img_height = theme.archive.banner_img_height %>
 <%    var subtitle = 'Archive' %>
 <% } else { %>
 <%    var subtitle = page.title %>
 <%    var banner_img = theme.index.banner_img %>
 <%    var banner_img_height = theme.index.banner_img_height %>
-<%    share_img = url_for("/img/share-img.png") %>
+<%    share_img = url_for("/img/cover-with-logo.png") %>
 <% } %>
 
 <%- partial('_partial/head') %>
