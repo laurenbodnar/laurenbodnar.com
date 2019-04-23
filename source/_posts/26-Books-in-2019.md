@@ -4,6 +4,7 @@ cover: /img/26in2019.jpeg
 date: 2019-02-28T11:41:09.000Z
 tags:
   - Books
+description: This is a living post for my 26 books in 2019 challenge. It will continue to be edited throughout 2019 to add reviews as I finish books.
 ---
 ![header img](/img/26in2019.jpeg)
 
