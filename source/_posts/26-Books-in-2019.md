@@ -1,5 +1,6 @@
 ---
 title: 26 Books in 2019
+cover: /img/26in2019.jpeg
 date: 2019-02-28T11:41:09.000Z
 tags:
   - Books
@@ -61,13 +62,13 @@ I have no idea why this book is such a classic. Perhaps I'm a curmudgeon with no
 
 ### Book a friend recommends
 
-**[Let me be a Woman](https://amzn.to/2CfjYkt) by Elisabeth Elliot**\
-I have mixed feelings about this book and honestly need to spend some time reflecting more in depth about it. But it's also been over a month since I read it and I haven't had the alone time or mental clarity to do that yet. This book provides a lot of nuggets of truth and helpful reminders about biblical womanhood in all aspects of life. Published in 1976 it's extremely challenging towards the typical world views of our 2019 society. In a way, the book was uncomfortable. She's shares some fairly stereotypical 50's housewife type ideas. I had to put it down several times to consider if my negative reactions to it were because her ideas were outdated, or if she was totally right in ways I've been so culturally conditioned to disagree with. In the end, I think both. The book is full of biblical explanations of what it is to be female the way God created. But also some of her practical examples of how this femininity might work itself out are a relic of her time. It takes a lot of discernment and heart searching to figure out which is which. 
+**[Let me be a Woman](https://amzn.to/2CfjYkt) by Elisabeth Elliot**
+I have mixed feelings about this book and honestly need to spend some time reflecting more in depth about it. But it's also been over a month since I read it and I haven't had the alone time or mental clarity to do that yet. This book provides a lot of nuggets of truth and helpful reminders about biblical womanhood in all aspects of life. Published in 1976 it's extremely challenging towards the typical world views of our 2019 society. In a way, the book was uncomfortable. She's shares some fairly stereotypical 50's housewife type ideas. I had to put it down several times to consider if my negative reactions to it were because her ideas were outdated, or if she was totally right in ways I've been so culturally conditioned to disagree with. In the end, I think both. The book is full of biblical explanations of what it is to be female the way God created. But also some of her practical examples of how this femininity might work itself out are a relic of her time. It takes a lot of discernment and heart searching to figure out which is which.
 </br>
 
 ### Book about Christian Living
 
-**\[Understanding Baptism](https://amzn.to/2Du2kd3) by Bobby Jamieson**\
+**[Understanding Baptism](https://amzn.to/2Du2kd3) by Bobby Jamieson**
 Great! Short, to the point, easy to read and very helpful. I highly recommend for any believer new and old that feels unsure they know the **why** behind what they believe about baptism. This booklet covers the foundation of what is baptism, what it is not, who should be baptized and who should do the baptism. As well as why and when baptism is different than getting dunked in any random body of water at any random time. Honestly it cleared up a bit of confusion I had surrounding my own baptism and I'm grateful.
 </br>
 
