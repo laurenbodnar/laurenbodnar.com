@@ -17,7 +17,7 @@ apple_touch_icon: /apple-touch-icon.png
 # Index Page
 #---------------------------
 index:
-  banner_img: /img/header1.jpg
+  banner_img: /img/header.jpg
   # available: 0 - 100
   banner_img_height: 100
   subtitle:
