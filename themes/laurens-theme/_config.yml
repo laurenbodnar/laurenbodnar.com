@@ -121,6 +121,8 @@ about:
     github: https://github.com
     instagram: https://instagram.com/lauren.n.bodnar
 
+skip_render:
+  - "*admin/*"
 
 #---------------------------
 # 底部信息
