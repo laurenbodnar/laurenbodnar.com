@@ -20,6 +20,17 @@
       <%- js("/js/plugins/moment.min.js") %>
       <!-- Control Center for Material Kit: parallax effects, scripts for the example pages etc -->
       <%- js("/js/material-kit.min.js?v=2.0.5") %>
+      <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
       <% if(is_post()){ %>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
         <%- js("/js/post.js") %>
