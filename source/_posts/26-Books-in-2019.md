@@ -73,6 +73,12 @@ I have mixed feelings about this book and honestly need to spend some time refle
 Great! Short, to the point, easy to read and very helpful. I highly recommend for any believer new and old that feels unsure they know the **why** behind what they believe about baptism. This booklet covers the foundation of what is baptism, what it is not, who should be baptized and who should do the baptism. As well as why and when baptism is different than getting dunked in any random body of water at any random time. Honestly it cleared up a bit of confusion I had surrounding my own baptism and I'm grateful.
 </br>
 
+### Bonus Book
+
+**[Babe the Gallant Pig](https://amzn.to/2ICKIAc) by Dick King-Smith**
+I list this as a Bonus Book because I'm not counting it toward my 26. This is the 3rd chapter book I've read to my daughter this year. I'm listing it here because I've never read it before and honestly, it's still a full size book even though it's geared toward young readers. It's a fun read and my almost 4 year old was able to follow along well. I changed some words on the fly though so she could understand it better and so she wouldn't go around say the B word thinking it's only meaning was to refer to a female dog.
+</br>
+
 - - -
 
 ### **Future 2019 Reads:**
