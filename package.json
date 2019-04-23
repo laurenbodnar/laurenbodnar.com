@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cryptiles": ">=4.1.2",
-    "hexo": "latest",
+    "hexo": "^3.8.0",
     "hexo-all-minifier": "^0.5.3",
     "hexo-cli-extras": "latest",
     "hexo-deployer-git": "^1.0.0",
@@ -21,6 +21,7 @@
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-tag": "^0.2.0",
     "hexo-instagram-wall": "latest",
+    "hexo-migrator-medium.com": "git@github.com:blockmason/hexo-migrator-medium.com.git",
     "hexo-netlify-cms": "^0.1.2-5",
     "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.3.2",
