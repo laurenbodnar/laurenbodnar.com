@@ -1,0 +1,10 @@
+ports:
+- port: 4000
+  onOpen: open-preview
+tasks:
+- before: npm install -g hexo hexo-server
+- init: npm install
+- command: npm start
+github:
+  prebuilds:
+    addComment: true
