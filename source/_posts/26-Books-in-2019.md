@@ -73,6 +73,17 @@ I have mixed feelings about this book and honestly need to spend some time refle
 Great! Short, to the point, easy to read and very helpful. I highly recommend for any believer new and old that feels unsure they know the **why** behind what they believe about baptism. This booklet covers the foundation of what is baptism, what it is not, who should be baptized and who should do the baptism. As well as why and when baptism is different than getting dunked in any random body of water at any random time. Honestly it cleared up a bit of confusion I had surrounding my own baptism and I'm grateful.
 </br>
 
+### A Novel
+
+**[Salvage the Bones](https://www.amazon.com/gp/product/1608196267/ref=as_li_tl?ie=UTF8&tag=laurenbodnar-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1608196267&linkId=5e169b60fe68a29b65764337385c423f) by Jesmyn Ward**
+I had expectations for this book going into it that effected the way I feel about it now that I'm finished. Unfortunately I wanted to enjoy it more than I did. I thought the book was going to follow a family through Hurricane Katrina. I wanted to step outside myself and see that event through the eyes of someone who lived it. I spent the whole novel waiting for the hurricane to come. Really the story was set a few days leading up to the hurricane and ended a day or two after. The book really was not at all about the hurricane itself. It was about life as a poor black family living in rural Mississippi. In this regard I'm glad I read it. It stretched me and made me uncomfortable at times, which I'm sure was one of the goals of the author.
+</br>
+
+### Book about Theology
+
+**[The Baptism of Disciples Alone: A Covenantal Argument for Credobaptism versus Paedobaptism](https://www.amazon.com/gp/product/0978571134/ref=as_li_tl?ie=UTF8&tag=laurenbodnar-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0978571134&linkId=506f93d1562d6d5f6264b7d28fa3fb49) by Fred Malone**
+I really enjoyed this book, though at times I had to reread a few paragraphs. Malone is gracious to our paedobaptist brothers and sisters and truly desires the truth of God's word to be clearly understood and taught by all. He dismantles arguments used by prominent paedobaptist teachers by showing the error and inconsistencies within them. Ultimately he argues that the paedobaptist position hinges on "an erroneous use of good and necessary inference" and does not actually follow the regulative principle of worship which paedobaptists themselves claim to hold to. Not only was I edified by this work regarding the doctrine of believers baptism I also learned a great deal about other theological concepts such as the regulative principle. This one is not for everyone, but I believe anyone who puts in the effort will benefit from this brother.
+
 ### Bonus Book
 
 **[Babe the Gallant Pig](https://amzn.to/2ICKIAc) by Dick King-Smith**
@@ -84,7 +95,6 @@ I list this as a Bonus Book because I'm not counting it toward my 26. This is th
 ### **Future 2019 Reads:**
 
 A BIOGRAPHY
-A NOVEL
 A BOOK WITH AT LEAST 400 PAGES
 A BOOK ABOUT CHRISTIAN LIVING
 A BOOK BY OR ABOUT A MISSIONARY
@@ -93,7 +103,6 @@ A BOOK FROM A “BEST OF 2018” LIST
 A COMMENTARY ON A BOOK OF THE BIBLE
 A BOOK WRITTEN BY A PURITAN
 A BOOK BY OR ABOUT A MISSIONARY
-A BOOK ABOUT THEOLOGY
 A BOOK RECOMMENDED BY A FAMILY MEMBER
 A BOOK PUBLISHED IN 2019
 A BOOK ON THE CURRENT NY TIMES LIST OF BESTSELLERS
