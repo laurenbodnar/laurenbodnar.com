@@ -2,7 +2,7 @@
 title: Super Simple Suggestions for a Restful Sabbath
 date: 2019-06-05 17:01:40
 cover: /img/sabbath2.jpg
-tags: Motherhood, Christianity, Life, Life Lessons
+tags: [Motherhood, Christianity, Life, Life Lessons]
 author: Lauren Bodnar
 description: God did not give us a second Saturday. Enjoying a Sabbath while being a busy mom with life that never slows down takes preparation.
 ---
@@ -30,7 +30,7 @@ This is a super simple idea that takes the guess work and the toddler arguments 
 **Daily Habits for Restful Weekends**
 This is so important in terms of preparing for the Sabbath all week. Tiny habits that will help you stop using your Sundays as a catch up day. 2 things in the morning - 2 in the evening. </br>
 **Morning**
-Laundry: Put 1 load in every morning. This will also help you to remember to move things to the dryer before you have rewash (...maybe that's just me...) Fold or hang the dry clothes. I like to put all my folded clothes in a basket and put them all away at once near the end of the week. But you do you. If you make sure to do one load every day M-F, you'll never be without clothes, you'll never need to catch up on it over the weekend. They will also be small enough loads that it won't take more then 15 minutes of your morning.  </br>
+Laundry: Put 1 load in every morning. This will also help you to remember to move things to the dryer before you have to rewash (...maybe that's just me...) Fold or hang the dry clothes. I like to put all my folded clothes in a basket and put them all away at once near the end of the week. But you do you. If you make sure to do one load every day M-F, you'll never be without clothes, you'll never need to catch up on it over the weekend. They will also be small enough loads that it won't take more then 15 minutes of your morning.  </br>
 Empty the dishwasher: Every morning I empty the dishwasher. This way I can put dirty dishes in it all day and they don't pile up on the counter. </br>
 **Evening**
 Run the dishwasher: If you emptied it in the morning it shouldn't take much effort to clean up after dinner and run it. Keeping dishes under control each day ensures that you don't have a large pile of dirty dishes to contend with once the weekend rolls around. </br>
