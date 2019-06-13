@@ -2,8 +2,9 @@
 title: {{ title }}
 date: {{ date }}
 cover: /img/cover.jpg
-tags:
+tags: []
 author: Lauren Bodnar
+description:
 ---
 ![header img](/img/cover.jpg)
 
