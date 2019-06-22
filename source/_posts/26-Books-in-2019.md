@@ -14,7 +14,7 @@ For the third year in a row I have again doubled my previous years reading goal.
 
 This is a living post, and it will continue to be edited throughout 2019 to add reviews as I finish books. Another goal of mine is to write more, so some books will get their own full length review in a separate post but I’ll link it here. The books will be listed in the order I completed them.
 
-I’m shocked to say that as I’m writing the first part of this post it’s the last day in February and I’ve already finished 5 and I’m nearly done with 2 more.
+
 
 - - -
 
@@ -83,6 +83,22 @@ I had expectations for this book going into it that effected the way I feel abou
 
 **[The Baptism of Disciples Alone: A Covenantal Argument for Credobaptism versus Paedobaptism](https://www.amazon.com/gp/product/0978571134/ref=as_li_tl?ie=UTF8&tag=laurenbodnar-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0978571134&linkId=506f93d1562d6d5f6264b7d28fa3fb49) by Fred Malone**
 I really enjoyed this book, though at times I had to reread a few paragraphs. Malone is gracious to our paedobaptist brothers and sisters and truly desires the truth of God's word to be clearly understood and taught by all. He dismantles arguments used by prominent paedobaptist teachers by showing the error and inconsistencies within them. Ultimately he argues that the paedobaptist position hinges on "an erroneous use of good and necessary inference" and does not actually follow the regulative principle of worship which paedobaptists themselves claim to hold to. Not only was I edified by this work regarding the doctrine of believers baptism I also learned a great deal about other theological concepts such as the regulative principle. This one is not for everyone, but I believe anyone who puts in the effort will benefit from this brother.
+</br>
+
+### Book Recommended by a Family Member
+**[The Way of Kings](https://amzn.to/2FC8KrZ) by Brandon Sanderson**
+Book one of The Stormlight Archive, an epic fantasy series recommended to me by my husband after he consumed every book available by the author last year. This is such and outlier for me as I never read fantasy or sci-fi. I haven't even read Harry Potter. It took me a bit of effort to get hooked into it because there's so much going on and I'm not familiar with books that build new worlds and magic systems. Once I got into it though, I could not put it down. Straight through the second book. The book switches between several characters point of view until they eventually all begin to merge into the greater story. The world is one beset with wars, assassins, chasm fiends, and deadly storms that fuel the magic system with stormlight. Sanderson crafts an incredibly intricate social hierarchy, religious systems, and world history that all play major roles in the overall story. It's rare that a book causes me to literally exclaim "WOAH" out loud when the most unexpected thing happened! It's a thrilling read and you won't stop here.
+
+### Book With At Least 400 Pages
+**[Words of Radiance](https://amzn.to/2IV1lEQ) by Brandon Sanderson**
+1087 pages exactly. And it took me 6 days to finish. Riding the high of book one, I consumed the second Stormlight Archive book in record time. I also got a lot less sleep that week. As good as the first, with still more twists and turns and mysteries revealed. The character development in these books is fantastic. Part of the magic system requires the characters to wrestle a bit with who they are and who they will chose to be. This means that every character has depth, none outshines the others. I highly recommend this series. Book two comes to a more complete finish, though there is plenty of cliffhanger leading into book 3 (and the novella that takes place in between). It's easier to pause here and take a break but I'm looking forwarding to finishing the next ones. Sanderson isn't yet done writing the epic saga that is planned to be 10 books long! I'm totally sucked in, I'll read them all.
+</br>  
+
+### Book By or About a Missionary
+
+**[Filling Up the Afflictions of Christ: The Cost of Bringing the Gospel to the Nations in the Lives of William Tyndale, Adoniram Judson, and John Paton](https://amzn.to/2L8QmKA) by John Piper**
+I've had this on my shelf for several years never making it to the top of my book stack. But we moved and I don't even know where my book stack is, but I found this one and decided to give it a go. I think I never picked it up because I knew what laid inside would twist my heart in ways I didn't want to deal with. If you're unfamiliar with Tyndale, Judson, and Paton they are all remarkable men who gave their lives for the sake of spreading the gospel. These men took God's promises seriously and they put everything on the line, enduring sorrow upon sorrow while clinging to the one true God they knew was in control. Their stories are inspiring and convicting. Much of what they suffered and died for, I often take for granted. Piper endeavors to provide short, easy to read summaries of each of their lives and lasting impact and does so with a surprising amount of passion. Despite being so short each story is compelling as Piper boiled each down to a laser focus using the three together to make a larger point to his readers. God uses the suffering of his people to display the sufferings and love of Jesus to the world. What you believe about God and the worth you place in heavenly things versus earthly things is bound to challenged by this book.  
+</br>
 
 ### Bonus Book
 
@@ -95,15 +111,12 @@ I list this as a Bonus Book because I'm not counting it toward my 26. This is th
 ### **Future 2019 Reads:**
 
 A BIOGRAPHY
-A BOOK WITH AT LEAST 400 PAGES
 A BOOK ABOUT CHRISTIAN LIVING
 A BOOK BY OR ABOUT A MISSIONARY
 A BOOK OF YOUR CHOICE
 A BOOK FROM A “BEST OF 2018” LIST
 A COMMENTARY ON A BOOK OF THE BIBLE
 A BOOK WRITTEN BY A PURITAN
-A BOOK BY OR ABOUT A MISSIONARY
-A BOOK RECOMMENDED BY A FAMILY MEMBER
 A BOOK PUBLISHED IN 2019
 A BOOK ON THE CURRENT NY TIMES LIST OF BESTSELLERS
 A BOOK ABOUT CHURCH HISTORY
