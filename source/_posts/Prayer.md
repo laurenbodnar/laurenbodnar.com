@@ -10,6 +10,7 @@ description: "\"If this is not encouragement to pray, words have no meaning\" - 
 
 ### Do you pray? </br>
 
+
 This is the simple question put forth by J.C. Ryle in his book [A Call to Prayer](https://chapellibrary.org:8443/pdf/books/ctpr.pdf) (free pdf version). A super short book that packs a big punch exposing our wrong thinking and insecurities which cause many to neglect private prayer. </br>
 
 The point is not to shame us though. He does not wag his finger and hang his head at our failure. This brother in Christ loves his reader too much for that. Instead he lifts our head and gives us encouragement from scripture. </br>
