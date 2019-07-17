@@ -1,12 +1,12 @@
 ---
 title: Reflections on J.C. Ryle's A Call to Prayer
-cover: /img/doyoupray.png
+cover: /img/doyoupray2.png
 tags: [Christianity, Books, Reading, Book Review]
 author: Lauren Bodnar
 date: 2019-07-15 13:34:50
 description: "\"If this is not encouragement to pray, words have no meaning\" - Ryle shepherds us towards the good news of the gospel while exposing why many neglect prayer. I say along with Ryle, to myself as well as you, let us think of these truths and be encouraged unto prayer."
 ---
-![header img](/img/doyoupray.png)
+![header img](/img/doyoupray2.png)
 
 ### Do you pray? </br>
 

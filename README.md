@@ -133,6 +133,7 @@ This is a much simpler git workflow that doesn't include github issues.
   - **git merge [source-branch]** applies changes from other branch on top of current branch.
   - **git rebase [source-branch]** sets your commits aside, and applies the commits from `source-branch` and then applies your commits back on top of `source-branch`'s commits. Think of it as a way of syncing base foundation.
   - **Resolving conflicts**: the easiest way to resolve conflicts is to use Atom or [GitKraken](https://www.gitkraken.com/git-client)
+  - Image size when making my own 1204px x 677px
 
 ## Cheatsheets
 
