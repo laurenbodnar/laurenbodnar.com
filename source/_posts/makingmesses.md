@@ -4,7 +4,7 @@ cover: /img/bakerlandscape.jpg
 tags: [Motherhood, Life, Life Lessons, Play]
 author: Lauren Bodnar
 date: 2019-07-17 12:22:37
-description:
+description: Some messes are better than others. Some help them learn big lessons. Some are more fun. Here's my favorite mess and 7 reasons why.
 ---
 ![header img](/img/bakerlandscape.jpg)
 </br>
