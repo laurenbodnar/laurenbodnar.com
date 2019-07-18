@@ -1,5 +1,5 @@
 ---
-title: My Favorite Mess
+title: My Favorite Mess and 7 Reasons to Love It
 cover: /img/bakerlandscape.jpg
 tags: [Motherhood, Life, Life Lessons, Play]
 author: Lauren Bodnar

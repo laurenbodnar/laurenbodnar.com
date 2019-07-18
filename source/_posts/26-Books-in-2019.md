@@ -100,11 +100,13 @@ Book one of The Stormlight Archive, an epic fantasy series recommended to me by 
 I've had this on my shelf for several years never making it to the top of my book stack. But we moved and I don't even know where my book stack is, but I found this one and decided to give it a go. I think I never picked it up because I knew what laid inside would twist my heart in ways I didn't want to deal with. If you're unfamiliar with Tyndale, Judson, and Paton they are all remarkable men who gave their lives for the sake of spreading the gospel. These men took God's promises seriously and they put everything on the line, enduring sorrow upon sorrow while clinging to the one true God they knew was in control. Their stories are inspiring and convicting. Much of what they suffered and died for, I often take for granted. Piper endeavors to provide short, easy to read summaries of each of their lives and lasting impact and does so with a surprising amount of passion. Despite being so short each story is compelling as Piper boiled each down to a laser focus using the three together to make a larger point to his readers. God uses the suffering of his people to display the sufferings and love of Jesus to the world. What you believe about God and the worth you place in heavenly things versus earthly things is bound to challenged by this book.  
 </br>
 
-### Bonus Book
+### Bonus Books
 
 **[Babe the Gallant Pig](https://amzn.to/2ICKIAc) by Dick King-Smith**
 I list this as a Bonus Book because I'm not counting it toward my 26. This is the 3rd chapter book I've read to my daughter this year. I'm listing it here because I've never read it before and honestly, it's still a full size book even though it's geared toward young readers. It's a fun read and my almost 4 year old was able to follow along well. I changed some words on the fly though so she could understand it better and so she wouldn't go around say the B word thinking it's only meaning was to refer to a female dog.
 </br>
+**[A Call To Prayer](https://chapellibrary.org:8443/pdf/books/ctpr.pdf) by J.C. Ryle**
+So good. I wrote a [whole post on this one](https://laurenbodnar.com/2019/07/15/Prayer/). It's a brief summary of the book (it's hard to call it that, it's only like 30 pages) along with my reflections. But I encourage you to just go read it for yourself!
 
 - - -
 
