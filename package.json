@@ -3,31 +3,31 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.8.0"
+    "version": "4.2.0"
   },
   "scripts": {
     "start": "hexo server -d",
     "deploy": "hexo clean && hexo deploy"
   },
   "dependencies": {
-    "cryptiles": ">=4.1.2",
+    "cryptiles": "latest",
     "hexo": "latest",
-    "hexo-all-minifier": "^0.5.3",
+    "hexo-all-minifier": "latest",
     "hexo-cli-extras": "latest",
-    "hexo-deployer-git": "^1.0.0",
-    "hexo-fbcomments": "^1.0.6",
-    "hexo-generator-archive": "^0.1.5",
-    "hexo-generator-category": "^0.1.3",
-    "hexo-generator-index": "^0.2.1",
-    "hexo-generator-tag": "^0.2.0",
+    "hexo-deployer-git": "latest",
+    "hexo-fbcomments": "latest",
+    "hexo-generator-archive": "latest",
+    "hexo-generator-category": "latest",
+    "hexo-generator-index": "latest",
+    "hexo-generator-tag": "latest",
     "hexo-instagram-wall": "latest",
-    "hexo-netlify-cms": "^0.1.2-5",
-    "hexo-renderer-ejs": "^0.3.1",
-    "hexo-renderer-marked": "^0.3.2",
-    "hexo-renderer-stylus": "^0.3.3",
-    "hexo-server": "^0.3.3",
-    "hoek": ">=4.2.1",
+    "hexo-netlify-cms": "latest",
+    "hexo-renderer-ejs": "latest",
+    "hexo-renderer-marked": "latest",
+    "hexo-renderer-stylus": "latest",
+    "hexo-server": "latest",
+    "hoek": "latest",
     "lodash": "latest",
-    "shell-quote": ">=1.6.1"
+    "shell-quote": "latest"
   }
 }
