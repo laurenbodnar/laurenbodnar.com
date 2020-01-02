@@ -100,11 +100,44 @@ Book one of The Stormlight Archive, an epic fantasy series recommended to me by 
 I've had this on my shelf for several years never making it to the top of my book stack. But we moved and I don't even know where my book stack is, but I found this one and decided to give it a go. I think I never picked it up because I knew what laid inside would twist my heart in ways I didn't want to deal with. If you're unfamiliar with Tyndale, Judson, and Paton they are all remarkable men who gave their lives for the sake of spreading the gospel. These men took God's promises seriously and they put everything on the line, enduring sorrow upon sorrow while clinging to the one true God they knew was in control. Their stories are inspiring and convicting. Much of what they suffered and died for, I often take for granted. Piper endeavors to provide short, easy to read summaries of each of their lives and lasting impact and does so with a surprising amount of passion. Despite being so short each story is compelling as Piper boiled each down to a laser focus using the three together to make a larger point to his readers. God uses the suffering of his people to display the sufferings and love of Jesus to the world. What you believe about God and the worth you place in heavenly things versus earthly things is bound to challenged by this book.  
 </br>
 
-### Bonus Books
+### Book of Choice
+
+**[Edgedancer](https://www.amazon.com/Edgedancer-From-the-Stormlight-Archive/dp/B07628H5XG/ref=sr_1_2?crid=2THZOJ1MA7ABF&keywords=edgedancer+brandon+sanderson&qid=1577909742&sprefix=edgedancer%2Caps%2C211&sr=8-2) by Brandon Sanderson**
+This is short story (in comparison to his other behemoth sized books) set in between books 2 and 3 of the Stormlight Archive series. I had trouble getting into it only because it's a total sidestep from the main storyline and characters but it's important backstory for major parts of book 3.
+</br>
+
+### Book Published in 2019
+
+**[Parenting With Words of Grace: Building Relationships with Your Children One Conversation at a Time](https://www.amazon.com/Parenting-Words-Grace-Relationships-Conversation/dp/1433560976/ref=sr_1_2?crid=2NFAWIESEKCMH&keywords=parenting+with+words+of+grace&qid=1577910204&s=books&sprefix=parenting+with+words+%2Caudible%2C205&sr=1-2) by William P. Smith**
+"You learn to trust God’s heart for you based on his words to you when you’re not at your best, and your kids learn to trust your heart for them based on your words to them when they’re not at theirs. (37)"
+Most parenting books will leave you feeling defeated and acutely aware of all your worst qualities. This book however, is as full of grace for its reader as it encourages them to be with their children. I loved it and believe it's not only applicable to those with children (of all ages) but for any relationship in which you speak to other people when both you and they may not be at their best. These two quotes point to the heart of the book we learn how to speak to our children with grace as we hear how God speaks with grace to his people through his word.
+"As God speaks to us, taking into account our weaknesses, our immaturity, our fearfulness, our arrogance, our ignorance, and even our mistrustfulness, we discover someone who is worth knowing -- someone who does not hold our sins against us, but treats us better than we deserve. When he speaks kindly yet directly to us, he gives us reasons to trust him and in turn to want more of him. His words invite long-term relationship as we (re)experience the gospel through them. And as you hear him talk to you, you learn to speak to your children in similar ways that give them reasons to want to continue their conversation with you despite your many missteps. (16)"
+</br>
+
+### Book of Choice
+
+**[Oathbringer](https://www.amazon.com/Oathbringer/dp/B071V7W5S1/ref=sr_1_2?crid=3M473QAV51JSW&keywords=oathbringer+brandon+sanderson&qid=1577910910&s=books&sprefix=oathbr%2Cstripbooks%2C209&sr=1-2) by Brandon Sanderson**
+Book 3 in the Stormlight Archive series. In this book the storyline shifts as their enemies take new form and the once split character storylines are now fully intertwined. This book is as engaging as the rest and honestly does an even better job developing characters in my opinion. Roles and life and social structure are changing and each character must find their new place in it all. I'm really looking forward to book four coming out in Nov 2020! (Words I've never said about anything else)
+</br>
+
+### Book on a the Current NY Times List of Bestsellers
+
+**[The Tatooist of Auschwitz](https://www.amazon.com/Tattooist-Auschwitz-Novel/dp/B07BYXSLF4/ref=sr_1_1?crid=1Q2SRZ23JEIV0&keywords=tattooist+of+auschwitz&qid=1577911471&s=audible&sprefix=tatto%2Caudible%2C214&sr=1-1) by Heather Morris**
+Based on interviews with a Slovakian Jew, Lale Sokolov, Morris retells this love story amid the atrocities of infamous WWII death camp Auschwitz. Despite being a love story, it certainly does not romanticize or minimize those terrible realities common in the daily life of prisoners. It's hard to read, as you might expect. However, it's good in a sobering way to continue to put these memories in front of yourself in real and raw ways. I did not enjoy this book, but I'm glad I read it.
+</br>
+
+### Book about Christian Living
+
+**[Rejoicing in Christ](https://www.amazon.com/Rejoicing-Christ-Michael-Reeves/dp/0830840222/ref=sr_1_1?keywords=rejoicing+in+christ&qid=1577912342&s=audible&sr=8-1) by Michael Reeves**
+One of the best books I've ever read and one of the few I plan to reread (maybe annually) until every truth within is deeply known and easily recalled. Michael Reeves puts the beauty of Christ on display by taking a deep look at who He really is from many different vantage points. Jesus is the word. He is one with the Father. He sits on the throne. Jesus is the Son of God. He is the very great reward. This same Jesus emptied himself and became man. He is the better Adam. He is our brother. He is the perfect human. He is our Savior. He is the Bridegroom. He is the King. He loves his bride. Jesus Advocates for her. He is our priest. He is all of this and more and the more we behold who he is the more we can not help but to rejoice in what a great Savior and friend we have in Jesus! He is the hope we place our lives upon and we should know him more and more. Read this book.
+</br>
+
+### And this is the part where I totally diverge from Challies' reading challenge and decide to go my own way and read what I want cause I only have so much time and too many books in my to read pile that simply do not match the final few categories I had left.
 
 **[Babe the Gallant Pig](https://amzn.to/2ICKIAc) by Dick King-Smith**
-I list this as a Bonus Book because I'm not counting it toward my 26. This is the 3rd chapter book I've read to my daughter this year. I'm listing it here because I've never read it before and honestly, it's still a full size book even though it's geared toward young readers. It's a fun read and my almost 4 year old was able to follow along well. I changed some words on the fly though so she could understand it better and so she wouldn't go around say the B word thinking it's only meaning was to refer to a female dog.
+Actually I read this earlier in the year it's the 3rd chapter book I've read to my daughter this year. I'm including it in my count because I've never read it before and honestly, it's still a full size book even though it's geared toward young readers. It's a fun read and my almost 4 year old was able to follow along well. I did change some words on the fly so she could understand it better. That, and so she wouldn't go around saying the "B" word thinking it's only meaning was to refer to a female dog.
 </br>
+
 **[A Call To Prayer](https://chapellibrary.org:8443/pdf/books/ctpr.pdf) by J.C. Ryle**
 So good. I wrote a [whole post on this one](https://laurenbodnar.com/2019/07/15/Prayer/). It's a brief summary of the book (it's hard to call it that, it's only like 30 pages) along with my reflections. But I encourage you to just go read it for yourself!
 
