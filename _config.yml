@@ -65,7 +65,7 @@ fb_admins:
 fb_app_id:
 
 instagramWall:
-  enable: true
+  enable: false
   requestedCount: 12
   itemsPerRow: 4
   showCaption: true
