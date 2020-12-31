@@ -10,8 +10,9 @@
     "deploy": "hexo clean && hexo deploy"
   },
   "dependencies": {
-    "cryptiles": "latest",
-    "hexo": "latest",
+    "@hapi/cryptiles": "latest",
+    "@hapi/hoek": "latest",
+    "hexo": "^5.3.0",
     "hexo-all-minifier": "latest",
     "hexo-cli-extras": "latest",
     "hexo-deployer-git": "latest",
@@ -24,8 +25,7 @@
     "hexo-renderer-ejs": "latest",
     "hexo-renderer-marked": "latest",
     "hexo-renderer-stylus": "latest",
-    "hexo-server": "latest",
-    "hoek": "latest",
+    "hexo-server": "^2.0.0",
     "lodash": "latest",
     "shell-quote": "latest"
   }
