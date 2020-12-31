@@ -16,7 +16,7 @@
     "hexo": "^5.3.0",
     "hexo-all-minifier": "latest",
     "hexo-cli-extras": "latest",
-    "hexo-deployer-git": "latest",
+    "hexo-deployer-git": "^2.1.0",
     "hexo-fbcomments": "latest",
     "hexo-generator-archive": "latest",
     "hexo-generator-category": "latest",

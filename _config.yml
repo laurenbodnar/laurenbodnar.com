@@ -79,6 +79,12 @@ all_minifier: false
 skip_render:
   - "*admin/*"
 
+deploy:
+  type: git
+  repo: https://github.com/laurenbodnar/laurenbodnar.com
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
+
 netlify_cms:
   backend:
     name: git-gateway
