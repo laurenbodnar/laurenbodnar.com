@@ -17,7 +17,7 @@ apple_touch_icon: /apple-touch-icon.png
 # Index Page
 #---------------------------
 index:
-  banner_img: /img/header.jpg
+  banner_img: /img/coverleaf.jpg
   # available: 0 - 100
   banner_img_height: 100
   subtitle:
@@ -54,7 +54,7 @@ navbar:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/header1.jpg
+  banner_img: /img/coverleaf.jpg
   # available: 0 - 100
   banner_img_height: 70
   # available: 1 | 2
@@ -96,7 +96,7 @@ valine:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/header1.jpg
+  banner_img: /img/coverleaf.jpg
   # available: 0 - 100
   banner_img_height: 70
 
@@ -105,7 +105,7 @@ archive:
 # About Page
 #---------------------------
 about:
-  banner_img: /img/header1.jpg
+  banner_img: /img/coverleaf.jpg
   # available: 0 - 100
   banner_img_height: 60
   avatar: /img/avatar.jpg

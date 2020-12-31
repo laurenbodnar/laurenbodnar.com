@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="main-wrapper">
       <div class="row">
-        <div class="col-md-8 index-listing">
+        <div class="col-md-12 index-listing">
           <h2>Latest posts</h2>
           <% page.posts.each(function (post) { %>
           <div class="row post-card">
@@ -39,15 +39,6 @@
           <% }) %>
           <br><br>
           <%- partial('_partial/paginator') %>
-        </div>
-        <div class="col-md-4 instagram-sidebar">
-          <h2><a href="https://instagram.com/lauren.n.bodnar" class="instagram-link">&nbsp;<i class="fa fa-instagram"></i>&nbsp;Instagram</a></h2>
-          <%- instagramWall(16, 2, false)  %>
-          <br>
-          <p class="text-right" style="padding-right:10px">View more at <a href="https://instagram.com/lauren.n.bodnar" target="_blank">instagram.com/lauren.n.bodnar</a></p>
-          <div class="comments">
-          <%- partial('_partial/comments/' + theme.comments.type, page) %>
-          </div>
         </div>
       </div>
     </div>
